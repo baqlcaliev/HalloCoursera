@@ -1,2 +1,0 @@
-# HalloCoursera
-Some coursera experience 
