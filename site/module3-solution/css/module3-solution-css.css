@@ -1,0 +1,18 @@
+section{
+	background-color:gray;
+	margin:2px;
+	padding:5px;
+	border-radius:5px;
+	color:white;
+	font-family: "Times New Roman", Times, serif;
+}
+
+.chicken{
+	background-color:#ff4d4d;
+}
+.vegetables{
+	background-color:#138639;
+}
+.soup{
+	background-color:#4d79ff;
+}
